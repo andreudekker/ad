@@ -1,4 +1,4 @@
-# [Andreu Dekker](focuson-powercode.rhcloud.comchange)
+# [Andreu Dekker](http://focuson-powercode.rhcloud.com/)
 
 
 ## Features
